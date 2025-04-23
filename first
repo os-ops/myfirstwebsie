@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Welcome to Oskar's World</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background: linear-gradient(to right, #fceabb, #f8b500);
+      color: #333;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: auto;
+      background-color: white;
+      padding: 2rem;
+      border-radius: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      color: #f8b500;
+    }
+
+    h2 {
+      color: #555;
+    }
+
+    p {
+      line-height: 1.6;
+    }
+
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 2rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hi, I'm Oskar 👋</h1>
+
+    <div class="section">
+      <h2>❤️ A Big Hello To:</h2>
+      <p>My awesome family and my amazing friends — you guys mean the world to me. This site is for you to know more about me and see what I’m dreaming about!</p>
+    </div>
+
+    <div class="section">
+      <h2>🎂 About Me</h2>
+      <p>I'm 15 years old and I live in Singapore. I love being creative, exploring ideas, and learning cool things. Whether it’s lifting weights, coding, or just hanging out with friends — I’m always up for something fun.</p>
+    </div>
+
+    <div class="section">
+      <h2>💭 What I Love Doing</h2>
+      <p>I’m into weightlifting, design, and helping people. I also enjoy writing, solving problems, and pushing myself to be better every day.</p>
+    </div>
+
+    <div class="section">
+      <h2>🚀 My Hopes & Dreams</h2>
+      <p>One day, I hope to become someone who inspires others — maybe by teaching, building something big, or just being a good person in this world.</p>
+    </div>
+
+    <footer>
+      Made with ☀️ and a little bit of code by Oskar · 2025
+    </footer>
+  </div>
+</body>
+</html>
